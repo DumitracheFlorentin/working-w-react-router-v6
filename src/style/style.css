@@ -1,0 +1,9 @@
+.hoverBtn {
+  color: gray;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.hoverBtn:hover {
+  color: rgb(180, 180, 180);
+}
