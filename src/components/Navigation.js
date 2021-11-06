@@ -17,11 +17,7 @@ const Navigation = () => {
               Products
             </Link>
           </Nav.Link>
-          <Nav.Link>
-            <Link to="/cart" className="hoverBtn">
-              Cart
-            </Link>
-          </Nav.Link>
+
           <Nav.Link>
             <Link to="/dashboard" className="hoverBtn">
               Dashboard
