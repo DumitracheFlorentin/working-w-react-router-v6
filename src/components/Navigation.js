@@ -22,6 +22,11 @@ const Navigation = () => {
               Cart
             </Link>
           </Nav.Link>
+          <Nav.Link>
+            <Link to="/dashboard" className="hoverBtn">
+              Dashboard
+            </Link>
+          </Nav.Link>
         </Nav>
       </Container>
     </Navbar>
